@@ -7,6 +7,7 @@ Here our entities would be legally relavent words.
 ## Libraries used
 
 1. SpaCY 
+
 SpaCY tags entities which include person, organization, language, event etc. but the legal entites are not inbuilt in it.
 However, it gives us the freedom to fine tune the model for custom NER.
 
