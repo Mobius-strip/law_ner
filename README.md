@@ -1,6 +1,6 @@
 # Legal NER 
 
-The aim of this project is to generate useful tags fron legal documents.
+The aim of this project is to generate useful tags from legal documents.
 This information retrival task can be accomplished by named entity recognition.
 Here our entities would be legally relavent words.
 
